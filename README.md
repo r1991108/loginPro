@@ -1,5 +1,5 @@
 # loginPro
-An exercise to build a page with signup and login features which the password is encrypted by bcrypt
+An exercise to build a page with signup and login features which the password is safely encrypted by bcrypt
 
 ```bash
 .
